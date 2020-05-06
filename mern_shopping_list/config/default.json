@@ -1,0 +1,4 @@
+{
+    "mongoURI": "[MONGO DB URL]",
+    "jwtSecret": "shoppinglist_myjwtsecret" 
+}
